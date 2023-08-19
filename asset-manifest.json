@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/reactdashboard/static/css/main.073c9b0a.css",
-    "main.js": "/reactdashboard/static/js/main.5a2ea66b.js",
-    "static/js/787.545aecf5.chunk.js": "/reactdashboard/static/js/787.545aecf5.chunk.js",
-    "index.html": "/reactdashboard/index.html",
-    "main.073c9b0a.css.map": "/reactdashboard/static/css/main.073c9b0a.css.map",
-    "main.5a2ea66b.js.map": "/reactdashboard/static/js/main.5a2ea66b.js.map",
-    "787.545aecf5.chunk.js.map": "/reactdashboard/static/js/787.545aecf5.chunk.js.map"
+    "main.css": "/ReactDashBoard/static/css/main.073c9b0a.css",
+    "main.js": "/ReactDashBoard/static/js/main.9ada4ef8.js",
+    "static/js/787.545aecf5.chunk.js": "/ReactDashBoard/static/js/787.545aecf5.chunk.js",
+    "index.html": "/ReactDashBoard/index.html",
+    "main.073c9b0a.css.map": "/ReactDashBoard/static/css/main.073c9b0a.css.map",
+    "main.9ada4ef8.js.map": "/ReactDashBoard/static/js/main.9ada4ef8.js.map",
+    "787.545aecf5.chunk.js.map": "/ReactDashBoard/static/js/787.545aecf5.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.073c9b0a.css",
-    "static/js/main.5a2ea66b.js"
+    "static/js/main.9ada4ef8.js"
   ]
 }
